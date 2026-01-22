@@ -14,3 +14,6 @@ dan tidak ditujukan untuk promosi atau optimasi apa pun.
 
 Ia adalah arsip hidup —  
 agar makna yang telah terbentuk tidak hilang oleh waktu.
+
+Part of the G-Loop documentation and methodology ecosystem.
+Root entity: https://github.com/gloopmethod-gif/gloopmethod-gif
